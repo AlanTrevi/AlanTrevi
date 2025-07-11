@@ -1,4 +1,9 @@
-## Hi there 👋
+
+## ¡Hola! 👋
+
+Soy Alan Treviño ✨  
+Estudio Ingeniería en Sistemas  
+🚀 “El futuro pertenece a quienes creen en la belleza de sus sueños.” – Eleanor Roosevelt
 
 <!--
 **AlanTrevi/AlanTrevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
